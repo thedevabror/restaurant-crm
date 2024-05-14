@@ -1,0 +1,27 @@
+<svg width="31.000000" height="35.000000" viewBox="0 0 31 35" fill="none" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
+	<desc>
+		Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="9.327509" y1="19.713135" x2="0.000001" y2="29.211937" id="paint_linear_416_647_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2878FF" />
+			<stop offset="1.000000" stop-color="#2C65C8" />
+		</linearGradient>
+		<linearGradient x1="18.110834" y1="27.750488" x2="8.783326" y2="37.249290" id="paint_linear_416_648_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2878FF" />
+			<stop offset="1.000000" stop-color="#2C65C8" />
+		</linearGradient>
+		<linearGradient x1="19.109058" y1="9.284912" x2="6.215153" y2="22.415606" id="paint_linear_416_649_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2878FF" />
+			<stop offset="1.000000" stop-color="#2C65C8" />
+		</linearGradient>
+		<linearGradient x1="26.894159" y1="19.713135" x2="17.566650" y2="29.211937" id="paint_linear_416_650_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2878FF" />
+			<stop offset="1.000000" stop-color="#2C65C8" />
+		</linearGradient>
+	</defs>
+	<rect id="Rectangle 1" y="19.713135" rx="2.192031" width="9.498802" height="9.498802" transform="rotate(-45 0.000000 19.713135)" fill="url(#paint_linear_416_647_0)" fill-opacity="1.000000" />
+	<rect id="Rectangle 4" x="8.783325" y="27.750488" rx="2.192031" width="9.498802" height="9.498802" transform="rotate(-45 8.783325 27.750488)" fill="url(#paint_linear_416_648_0)" fill-opacity="1.000000" />
+	<rect id="Rectangle 2" x="6.215149" y="9.284912" rx="2.462005" width="13.130694" height="13.130694" transform="rotate(-45 6.215149 9.284912)" fill="url(#paint_linear_416_649_0)" fill-opacity="1.000000" />
+	<rect id="Rectangle 3" x="17.566650" y="19.713135" rx="2.192031" width="9.498802" height="9.498802" transform="rotate(-45 17.566650 19.713135)" fill="url(#paint_linear_416_650_0)" fill-opacity="1.000000" />
+</svg>
