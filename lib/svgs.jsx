@@ -535,3 +535,63 @@ export const Youtube = () => (
     </g>
   </svg>
 );
+
+export const FeaturedIcon1 = () => (
+  <svg
+    width="32.000000"
+    height="32.000000"
+    viewBox="0 0 32 32"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    xlink="http://www.w3.org/1999/xlink"
+  >
+    <desc>Created with Pixso.</desc>
+    <defs>
+      <linearGradient
+        x1="31.422943"
+        y1="-0.000002"
+        x2="0.000004"
+        y2="31.999998"
+        id="paint_linear_38_391_0"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#2878FF" />
+        <stop offset="1.000000" stop-color="#2C65C8" />
+      </linearGradient>
+      <linearGradient
+        x1="28.839426"
+        y1="2.666744"
+        x2="2.666691"
+        y2="29.333416"
+        id="paint_linear_38_392_0"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#2878FF" />
+        <stop offset="1.000000" stop-color="#2C65C8" />
+      </linearGradient>
+    </defs>
+    <rect
+      id="vuesax/bold/chart-square"
+      width="32.000000"
+      height="32.000000"
+      fill="#FFFFFF"
+      fill-opacity="0"
+    />
+    <g opacity="0.000000">
+      <path
+        id="Vector"
+        d="M0 0L32 0L32 32L0 32L0 0Z"
+        fill="url(#paint_linear_38_391_0)"
+        fill-opacity="1.000000"
+        fill-rule="evenodd"
+      />
+    </g>
+    <path
+      id="Vector"
+      d="M21.58 2.66L10.41 2.66C5.56 2.66 2.66 5.56 2.66 10.41L2.66 21.57C2.66 26.44 5.56 29.33 10.41 29.33L21.57 29.33C26.42 29.33 29.32 26.44 29.32 21.58L29.32 10.41C29.33 5.56 26.44 2.66 21.58 2.66ZM12.14 22.53C12.14 22.9 11.85 23.2 11.48 23.2L7.76 23.2C7.38 23.2 7.09 22.9 7.09 22.53L7.09 16.37C7.09 15.53 7.77 14.85 8.61 14.85L11.48 14.85C11.85 14.85 12.14 15.14 12.14 15.52L12.14 22.53ZM18.52 22.53C18.52 22.9 18.22 23.2 17.85 23.2L14.13 23.2C13.76 23.2 13.46 22.9 13.46 22.53L13.46 10.32C13.46 9.48 14.14 8.8 14.98 8.8L17.01 8.8C17.85 8.8 18.53 9.48 18.53 10.32L18.53 22.53L18.52 22.53ZM24.9 22.53C24.9 22.9 24.61 23.2 24.24 23.2L20.52 23.2C20.14 23.2 19.85 22.9 19.85 22.53L19.85 17.79C19.85 17.42 20.14 17.13 20.52 17.13L23.38 17.13C24.22 17.13 24.9 17.81 24.9 18.65L24.9 22.53Z"
+      fill="url(#paint_linear_38_392_0)"
+      fill-opacity="1.000000"
+      fill-rule="nonzero"
+    />
+  </svg>
+);
